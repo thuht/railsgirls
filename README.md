@@ -1,24 +1,5 @@
-# README
+# Cam On Ban Ghe Tham Web Cua Toi !
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Trong web nay toi bao gom:
+* KB ten bai hat, loi bai hat khi ban nao can nhe !
+* Cam on ban.
